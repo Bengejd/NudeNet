@@ -23,7 +23,6 @@ VERSION = '2.0.9'
 # What packages are required for this module to be executed?
 REQUIRED = [
     'pillow',
-    'opencv-python-headless>=4.5.1.48',
     'pydload',
     'scikit-image',
     'onnxruntime'
